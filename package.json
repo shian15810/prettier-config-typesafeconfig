@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "prettier-config-typesafeconfig",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Prettier base configuration (prettierrc) to extend from with emphasis on type safety.",
   "main": ".prettierrc.json",
   "scripts": {
