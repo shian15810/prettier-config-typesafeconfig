@@ -1,0 +1,33 @@
+{
+  "name": "prettier-config-typesafeconfig",
+  "version": "0.1.0",
+  "description": "Prettier base configuration (prettierrc) to extend from with emphasis on type safety.",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shian15810/prettier-config-typesafeconfig.git"
+  },
+  "keywords": [
+    "type",
+    "safe",
+    "config",
+    "typescript",
+    "base",
+    "configuration",
+    "tsconfig",
+    "extends",
+    "typesafeconfig",
+    "prettier",
+    "prettierrc",
+    "prettierconfig"
+  ],
+  "author": "Chuah Chee Shian <shian15810@gmail.com> (https://github.com/shian15810)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shian15810/prettier-config-typesafeconfig/issues"
+  },
+  "homepage": "https://github.com/shian15810/prettier-config-typesafeconfig#readme"
+}
