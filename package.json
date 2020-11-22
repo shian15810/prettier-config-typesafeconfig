@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/shian15810/prettier-config-typesafeconfig#readme",
   "peerDependencies": {
-    "prettier": ">=2.2.0"
+    "prettier": ">=2.2"
   }
 }
