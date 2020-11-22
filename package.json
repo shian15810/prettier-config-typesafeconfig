@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "prettier-config-typesafeconfig",
   "version": "0.1.0",
   "description": "Prettier base configuration (prettierrc) to extend from with emphasis on type safety.",
@@ -29,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/shian15810/prettier-config-typesafeconfig/issues"
   },
-  "homepage": "https://github.com/shian15810/prettier-config-typesafeconfig#readme"
+  "homepage": "https://github.com/shian15810/prettier-config-typesafeconfig#readme",
+  "peerDependencies": {
+    "prettier": ">=2.2.0"
+  }
 }
